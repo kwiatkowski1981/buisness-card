@@ -3,6 +3,8 @@
 
 # buisness-card
 
-to mój pierwszy projekt, gdzie używaliśmy programu Fgma 
+to mój pierwszy projekt, gdzie używaliśmy programu Figma 
+  [zapraszam do obejżenia]https://kwiatkowski1981.github.io/buisness-card/) 
+
 ## Projekt został stworzony na szkoleniu 
 [WTF: Co ten frontend](https://cotenfrontend.pl/) Maćka Korsana w 2020 roku.
