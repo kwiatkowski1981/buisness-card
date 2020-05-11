@@ -1,4 +1,4 @@
-![my-buisness-card](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![my-buisness-card](https://github.com/kwiatkowski1981/buisness-card/blob/master/img/bez%20nazwy.png)
 
 
 # buisness-card
